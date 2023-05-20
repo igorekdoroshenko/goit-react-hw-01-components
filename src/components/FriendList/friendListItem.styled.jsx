@@ -6,11 +6,11 @@ export const Item = styled.li`
   margin-bottom: 20px;
   background-color: white;
   width: 300px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 10px;
   margin-top: 50px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  margin-left: auto;
+  margin-right: auto;
 `;
 
 export const Status = styled.span`
@@ -22,7 +22,7 @@ export const Status = styled.span`
 `;
 
 export const Avatar = styled.img`
-margin-left: 10px;
+  margin-left: 10px;
 `;
 
 export const Name = styled.p`
